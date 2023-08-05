@@ -32,4 +32,6 @@ The platform includes an online support system to enhance customer and travel ag
 ## Database Schema and Functionality
 The database schema includes tables for users, travels, tickets, orders, agencies, discounts, support tickets, vehicles, stations, and more. Stored procedures and functions are implemented to handle ticket reservation, ordering, payment, tracking, and support system functionalities.
 
-## Most of the constraints and features have been handled in the database instead of the back end.
+## All of the constraints and features have been handled.
+
+![UML](UML.png)
